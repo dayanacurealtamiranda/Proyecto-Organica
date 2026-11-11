@@ -25,7 +25,7 @@ Caracterización fisicoquímica, análisis gráfico computacional y matriz de 20
 
 ---
 
-## 📊 Dashboard Interactivo en Power BI
+## Dashboard Interactivo en Power BI
 Puedes explorar el tablero interactivo en vivo haciendo clic en el siguiente enlace:
 
-👉 [*Ver Dashboard Interactivo de Power BI*](https://app.powerbi.com/view?r=eyJrIjoiNDc4ZjM4ZjctYTI3ZS00Y2M5LTg4NjgtNzQyMzYzZTRjN2QwIiwidCI6ImM0M2RiNWMwLTQxZmUtNGExYy05NjY5LTY2YzE0YzdmY2RiNCIsImMiOjR9)
+[*Ver Dashboard Interactivo de Power BI*](https://app.powerbi.com/view?r=eyJrIjoiNDc4ZjM4ZjctYTI3ZS00Y2M5LTg4NjgtNzQyMzYzZTRjN2QwIiwidCI6ImM0M2RiNWMwLTQxZmUtNGExYy05NjY5LTY2YzE0YzdmY2RiNCIsImMiOjR9)
